@@ -1,5 +1,8 @@
 /* A CSS Selectors is used to  an html element and give it style] */
-
+*{
+    margin: 0;
+    padding: 0;
+}
 /* p{
     color:blue;
     background-color:red;
@@ -14,8 +17,8 @@
 #jk{
     font-size:25px;
 } */
-div{
-    /* display: inline-block; */
+/* div{
+    display: inline-block; 
     height:200px;
     width:200px;
     padding:30;
@@ -62,4 +65,31 @@ h2{
 border:5px solid black;
     width: 500px;
     height: 200px;
+} */
+.one{
+    border: 5px solid black;
+    height: 450px;
+    width: 1000px;
+    
+}
+.two{
+    background-color: blue;
+    width: 900px;
+    height: 300px;
+    margin: 5%;
+
+
+     
+}
+.three{
+    background-color: rgb(255, 238, 0);
+    width: 800px;
+    height: 200px;
+    margin: 45px;
+    /* position: absolute; */
+    display: inline-block;
+}
+#ff{
+  text-align: center;
+  margin-top: 10%;
 }
