@@ -1,0 +1,16 @@
+/* A CSS Selectors is used to  an html element and give it style] */
+
+p{
+    color:blue;
+    background-color:red;
+    text-align:center;
+}
+
+.p{
+    color:green;
+    background-color:yellow;
+}
+
+#jk{
+    font-size:25px;
+}
