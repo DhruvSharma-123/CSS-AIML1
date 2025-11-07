@@ -1,16 +1,65 @@
 /* A CSS Selectors is used to  an html element and give it style] */
 
-p{
+/* p{
     color:blue;
     background-color:red;
     text-align:center;
-}
+} */
 
-.p{
+/* .p{
     color:green;
     background-color:yellow;
 }
 
 #jk{
     font-size:25px;
+} */
+div{
+    /* display: inline-block; */
+    height:200px;
+    width:200px;
+    padding:30;
+
+}
+.container{
+     border:1px solid black;
+    margin: 10px; 
+    font-size: 30;
+}
+#s2{
+   
+    color: rgb(221, 173, 27);
+    background-color: aqua;
+   
+}
+#t3{
+    color: green;
+    background-color: rgb(162, 233, 233);
+    
+
+}
+#f4{
+    color:rgb(37, 3, 69);
+    background-color: rgb(143, 100, 100);
+}
+#ff1{
+    color: blue;
+    background-color: aqua;
+} 
+h2{
+ text-align:center;
+ color: blueviolet;  
+
+}
+.pp{
+    
+    margin: 10px;
+    padding: 11px;}
+#pro{
+    color:red;
+}
+#div{
+border:5px solid black;
+    width: 500px;
+    height: 200px;
 }
